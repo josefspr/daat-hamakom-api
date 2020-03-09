@@ -16,5 +16,7 @@
 	{"id":144,"name":"Hecht Synagogue in Hebrew University, Jerusalem","position":"31.79191139330656,35.242273448657215","zoomlevel":"site","alt_name":[],"events_count":1},
 	{"id":145,"name":"View over Isawiya in Hebrew University, Jerusalem","position":"31.794820358748996,35.244258283328236","zoomlevel":"site","alt_name":[],"events_count":1}
   ],
-  "people": []
+  "people": [], 
+  "organizations": [],
+  "annotations": []
 }
